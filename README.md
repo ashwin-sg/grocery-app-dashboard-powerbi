@@ -1,4 +1,4 @@
-🛒 Grocery App Sales Dashboard – BigBasket
+🛒 #Grocery App Sales Dashboard – BigBasket
 
 📌 About BigBasket
 BigBasket is India’s largest online grocery platform, founded in 2011 and headquartered in Bangalore. It operates in over 30 cities and processes millions of orders monthly. Known for its fresh produce delivery and private label brands like Fresho, BB Royal, and GoodDiet, BigBasket is now a subsidiary of Tata Digital. The company has expanded into quick commerce and offline retail, aiming to redefine grocery shopping in India.
